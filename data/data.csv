@@ -1,0 +1,17 @@
+role;id;fio;worktime;payment;project part;project coef;people count;people coef
+seniormanager;1;Big Boss;;;10;10;15;60
+cleaner;2;Cleaner 1;12;8;;;;
+cleaner;3;Cleaner 2;10;8;;;;
+driver;4;Driver 1;12;10;;;;
+progectmaneger;5;PM 1;;;5;12;6;70
+teamleader;6;TL 1;10;16;4;12;5;50
+programmer;7;proger 1;10;14;2;12;;
+programmer;8;proger 2;10;14;2;12;;
+programmer;9;proger 3;10;14;2;12;;
+tester;10;tester 1;10;13;2;12;;
+tester;11;tester 2;10;13;2;12;;
+progectmaneger;12;PM 2;;;5;14;4;70
+teamleader;13;TL 2;10;16;4;14;3;50
+programmer;14;proger 4;10;14;2;14;;
+tester;15;tester 3;10;13;2;14;;
+tester;16;tester 4;10;13;2;14;;
